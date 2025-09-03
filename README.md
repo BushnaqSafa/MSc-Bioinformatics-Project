@@ -1,2 +1,2 @@
 # MSc-Bioinformatics-Project
-Human Reference Genomes for RNA-seq Analyses of Cancer Datasets
+Human Reference Genomes Comparison for RNA-seq Analyses of Cancer Datasets
